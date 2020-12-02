@@ -1,7 +1,7 @@
 #include "stdio.h"
 #include "stdlib.h"
 
-int main()
+int main()// hello
 {
 	char *c = "hello\r";
 	int month = 1;
